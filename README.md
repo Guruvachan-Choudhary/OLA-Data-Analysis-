@@ -6,36 +6,36 @@ This project analyzes OLA ride bookings using SQL and Power BI to derive insight
 
 ## Features
 
-Data Cleaning & Transformation: Applied ETL process to clean and structure the dataset.
+- Data Cleaning & Transformation: Applied ETL process to clean and structure the dataset.
 
-SQL Analysis: Performed queries to extract key insights from the dataset.
+- SQL Analysis: Performed queries to extract key insights from the dataset.
 
-Power Query: Used for data preparation and modeling.
+- Power Query: Used for data preparation and modeling.
 
-DAX Measures: Created custom calculations using DAX functions.
+- DAX Measures: Created custom calculations using DAX functions.
 
-Interactive Visualizations: Built dynamic dashboards to showcase insights.
+- Interactive Visualizations: Built dynamic dashboards to showcase insights.
 
-Trend Analysis: Identified peak booking hours, demand fluctuations, and geographical booking trends.
+- Trend Analysis: Identified peak booking hours, demand fluctuations, and geographical booking trends.
 
 ## Insights
 
-Peak ride booking hours and busiest locations.
+- Peak ride booking hours and busiest locations.
 
-Customer preferences and behavioral trends.
+- Customer preferences and behavioral trends.
 
-Revenue and performance analysis.
+- Revenue and performance analysis.
 
-Impact of external factors on booking trends.
+- Impact of external factors on booking trends.
 
 ## Tools & Technologies Used
 
-SQL
+- SQL
 
-Power BI
+- Power BI
 
-DAX (Data Analysis Expressions)
+- DAX (Data Analysis Expressions)
 
-Power Query
+- Power Query
 
-Data Cleaning & Transformation (ETL)
+- Data Cleaning & Transformation (ETL)
